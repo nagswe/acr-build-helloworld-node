@@ -12,4 +12,4 @@
 *Breaking Changes*
 * ...
 a small change
-.
+
